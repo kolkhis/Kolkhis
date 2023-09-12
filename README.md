@@ -7,6 +7,7 @@
 
 I'm a recent, self-taught developer trying to make it as a professional.  
 Invisible disability gaining visible ability through coding!  
+<br />
 Sometimes you'll find me streaming on [twitch](https://twitch.tv/kolkhis).
 
 
