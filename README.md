@@ -12,8 +12,3 @@ Sometimes you'll find me streaming on [twitch](https://twitch.tv/kolkhis).
 
 
 
-### Sponsor
-If you like/use any of the software I built, and want to support me, you can!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A4M7MV7) 
-
