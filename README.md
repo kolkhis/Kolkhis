@@ -1,18 +1,43 @@
-## I'm Kolkhis.
+# I'm Kolkhis. 
+#### (/kōl'kɪss/)  
+### Always be learning.  
+* [x] **Developer**  
+* [x] **Linux Enthusiast**  
+* [x] **Vim/Neovim Enthusiast**  
+* [x] **Eternal Student**  
 
-[![twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/null_kol)
-[![twitch](https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/kolkhis)
 
-### I like Python, Go, Neovim, and long walks on the beach.
+[![twitter badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/null_kol)
+[![twitch badge](https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/kolkhis)  
 
-I'm a recent, self-taught developer trying to make it as a professional.  
-<br />
-Sometimes you'll find me streaming on [twitch](https://twitch.tv/kolkhis).
 
-I have a passion for learning new things, be it new technologies or older, well-established ones.
+### I'm a self-taught developer, working towards a career in platform engineering.  
 
-I really enjoy back-end development, and I'm currently learning about systems administration and Go.
 
-Writing small utilities using Bash has become a hobby of mine, and I look forward to learning more and more with each day that passes!
+I have a passion for learning different technologies, both new and old.
+
+I find back-end development very fun, and I'm currently learning about systems administration and Go.  
+
+Writing tools using Bash and Neovim plugins with Lua have become hobbies of mine.  
+I look forward to learning more and more with each day that passes! 
+
+<br />  
+
+Sometimes you'll find me streaming on [twitch](https://twitch.tv/kolkhis).  
+
+---  
+
+### Current Proficient Languages  
+* Python  
+* Bash / POSIX Shell Scripting  
+* Lua  
+* Regex (some consider this it's own language)  
+* Go (still working on this one)  
+
+
+### Future Proficient Languages  
+* C/C++  
+* Nix
+
 
 
