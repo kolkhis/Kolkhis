@@ -1,6 +1,6 @@
 # I'm Kolkhis. 
 #### (/kōl'kɪss/)  
-### Always be learning.  
+### Never stop learning.  
 * [x] **Developer**  
 * [x] **Linux Enthusiast**  
 * [x] **Vim/Neovim Enthusiast**  
@@ -29,10 +29,10 @@ Sometimes you'll find me streaming on [twitch](https://twitch.tv/kolkhis).
 
 ### Current Proficient Languages  
 * Python  
-* Bash / POSIX Shell Scripting  
+* Bash / POSIX Shell 
 * Lua  
-* Regex (some consider this it's own language)  
-* Go (still working on this one)  
+* Regex (if it counts)  
+* Go (in progress)
 
 
 ### Future Proficient Languages  
