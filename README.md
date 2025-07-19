@@ -1,6 +1,6 @@
 # I'm Connor
 ###### AKA Kolkhis (/kōl'kɪss/)  
-### Self-Taught Linux Systems Engineer | Developer | Automation Addict | Platform Engineering in Progress
+### Self-Taught Linux Systems Engineer | Developer | Automation Addict
 
 > *"Never stop learning."*
 
@@ -17,8 +17,7 @@ I specialize in:
   shell scripts  
 - Building infrastructure as code (IaC) and configuration as code (CaC) with Ansible
 - Managing servers and self-hosted services in my homelab (Proxmox + K8s)
-- Documenting everything using [MkDocs](https://github.com/kolkhis/tech-notes) and
-  GitHub Pages  
+- Documenting everything using [MkDocs](https://github.com/kolkhis/tech-notes) and GitHub Pages  
 - Implementing deployment pipelines using GitHub Actions
 
 I'm currently working towards a career in **DevOps/Platform Engineering**, and I love
