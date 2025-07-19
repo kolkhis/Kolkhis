@@ -49,7 +49,7 @@ More projects at 👉 [https://github.com/kolkhis?tab=repositories](https://gith
 |----------|--------------
 | Shell Scripting   | Bash, POSIX-compliant shell, regex
 | Automation        | Ansible, GitHub Actions, CI/CD pipelines, yaml
-| Languages         | Python, Perl, Lua, Go (basic), C (basic), HTML/CSS, Markdown
+| Languages         | Bash, Python, Perl, Lua, Go (basic), C (basic), HTML/CSS, Markdown
 | Systems           | Proxmox, Ubuntu Server, Rocky Linux, systemd, etc.
 | Observability     | Prometheus, Grafana, Loki, etc.
 | Tooling           | vi/vim/nvim, tmux/screen, git, SSH, containers (Docker/Podman), etc.
