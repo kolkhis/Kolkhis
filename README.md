@@ -1,6 +1,6 @@
 # I'm Connor
 ###### AKA Kolkhis (/kōl'kɪss/)  
-### Self-Taught Linux Systems Engineer | Developer | Automation Addict
+### Self-Taught Linux Engineer | Developer | DevOps Automation | Bash && Infra Junkie
 
 > *"Never stop learning."*
 
@@ -36,15 +36,15 @@ More projects at 👉 [https://github.com/kolkhis?tab=repositories](https://gith
 
 ## Certifications
 
-- Gremlin Enterprise Chaos Engineering Certification (GECEC) - Gremlin
-- Linux Systems Administration for the Enterprise - ProLUG
-- Security Engineering - ProLUG
+- Linux Systems Administration for the Enterprise - ProLUG (2024)
+- Security Engineering - ProLUG (2025)
+- Gremlin Enterprise Chaos Engineering Certification (GECEC) - Gremlin (2025)
 
 
 
 ## Skills Snapshot
 
-| Category | Tools & Tech
+| Category | Tools && Tech
 |----------|--------------
 | Shell Scripting   | Bash, POSIX-compliant shell, regex
 | Automation        | Ansible, GitHub Actions, CI/CD pipelines, yaml
