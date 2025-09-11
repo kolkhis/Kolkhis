@@ -26,12 +26,13 @@ helping others learn the command line and Linux systems from the ground up.
 
 ## Projects + Contributions
 
-- [**Personal Tech Notes (MkDocs)**](https://github.com/kolkhis/tech-notes): Docs site with Bash scripting, Linux internals, and sysadmin cheat sheets (among other things)
-- [**ProLUG Course Sites**](https://github.com/ProfessionalLinuxUsersGroup/lac): Co-maintainer of open-source Linux courses; optimized CI/CD build times by 65%
-- [**Automated Monitoring Stack**](https://github.com/kolkhis/scripts-playbooks/tree/main/monitoring): Ansible playbooks that deploys tools from Grafana Labs (Grafana, Loki, Prometheus, Node_Exporter, Promtail)
-- **GitHub Backup Tool:** Bash script using GitHub API + EC2 + S3 to automate org repo backups
+- [Personal Tech Notes Site](https://github.com/kolkhis/tech-notes): MkDocs site with all my notes on various aspects of technology (Bash, Linux internals, cloud, etc.) 
+- [ProLUG Course Sites](https://github.com/ProfessionalLinuxUsersGroup/lac): Co-maintainer of open-source Linux courses  
+- [Automated Monitoring Stack](https://github.com/kolkhis/scripts-playbooks/tree/main/monitoring): Ansible playbooks that deploys tools from Grafana Labs (Grafana, Loki, Prometheus, Node_Exporter, Promtail)
+- [Kubernetes Deployment Scripts](https://github.com/kolkhis/scripts-playbooks/tree/main/k8s-setup): Set of Bash scripts and Ansible playbooks used to configure a highly available K8s cluster  
+- GitHub Backup Tool: Bash script using GitHub API + EC2 + S3 to automate org repo backups
 
-More projects at 👉 [https://github.com/kolkhis?tab=repositories](https://github.com/kolkhis?tab=repositories)
+More projects at 👉 [https://github.com/kolkhis?tab=repositories](https://github.com/kolkhis?tab=repositories) and [my `lab-utils` repository](https://github.com/kolkhis/lab-utils)  
 
 
 ## Certifications
@@ -39,7 +40,6 @@ More projects at 👉 [https://github.com/kolkhis?tab=repositories](https://gith
 - Linux Systems Administration for the Enterprise - ProLUG (2024)
 - Security Engineering - ProLUG (2025)
 - Gremlin Enterprise Chaos Engineering Certification (GECEC) - Gremlin (2025)
-
 
 
 ## Skills Snapshot
@@ -57,7 +57,5 @@ More projects at 👉 [https://github.com/kolkhis?tab=repositories](https://gith
 
 - [My Notes Site / Tech Wiki](https://docs.kolkhis.dev)
 - Email: [connor@kolkhis.dev](mailto:connor@kolkhis.dev)
-
-For business inquiries, contact me via email.  
 
 ---
