@@ -1,6 +1,6 @@
 # I'm Connor
 ###### AKA Kolkhis (/kōl'kɪss/)  
-### Self-Taught Linux Engineer | Developer | DevOps Automation | Bash && Infra Junkie
+### Self-Taught Linux Engineer | Developer | DevOps | Bash && Infra Junkie
 
 > *"Never stop learning."*
 
@@ -13,6 +13,7 @@ I'm a self-taught Linux systems engineer and developer with a strong passion for
 automation, back-end tooling, and infrastructure.  
 
 I specialize in:
+
 - Writing minimal, functional, dependency-free Bash scripts, and (if I must) POSIX 
   shell scripts  
 - Building infrastructure as code (IaC) and configuration as code (CaC) with Ansible
