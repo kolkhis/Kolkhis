@@ -39,7 +39,7 @@ More projects at 👉 [https://github.com/kolkhis?tab=repositories](https://gith
 
 ## Certifications
 
-- ProLUG Certified Linux Systems Administration for the Enterprise - ProLUG (2024)
+- ProLUG Certified Linux Systems Administrator - ProLUG (2024)
 - ProLUG Certified Security Engineer - ProLUG (2025)
 - Gremlin Enterprise Chaos Engineering Certification (GECEC) - Gremlin (2025)
 
