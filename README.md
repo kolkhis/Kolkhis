@@ -1,6 +1,6 @@
 # I'm Connor
 ###### AKA Kolkhis (/kōl'kɪss/)  
-### Self-Taught Linux Engineer | Developer | DevOps | Bash && Infra Junkie
+### Self-Taught Linux Admin/Engineer | Developer | DevOps | Bash && Infra Junkie
 
 > *"Never stop learning."*
 
@@ -9,7 +9,7 @@
 
 ---
 
-I'm a self-taught Linux systems engineer and developer with a strong passion for
+I'm a Linux systems engineer and developer with a strong passion for
 automation, back-end tooling, and infrastructure.  
 
 I specialize in:
@@ -18,8 +18,8 @@ I specialize in:
   shell scripts  
 - Building infrastructure as code (IaC) and configuration as code (CaC) with Ansible
 - Managing servers and self-hosted services in my homelab (Proxmox + K8s)
-- Documenting everything using [MkDocs](https://github.com/kolkhis/tech-notes) and GitHub Pages  
-- Implementing deployment pipelines using GitHub Actions
+- Documenting everything using Markdown/[MkDocs](https://notes.kolkhis.dev) and GitHub Pages  
+- Implementing CI/CD pipelines using GitHub Actions
 
 I'm currently working towards a career in **DevOps/Platform Engineering**, and I love
 helping others learn the command line and Linux systems from the ground up.  
@@ -28,20 +28,20 @@ helping others learn the command line and Linux systems from the ground up.
 ## Projects + Contributions
 
 - [Personal Tech Notes Site](https://github.com/kolkhis/tech-notes): MkDocs site with all my notes on various aspects of technology (Bash, Linux internals, cloud, etc.) 
-- [ProLUG Course Sites](https://github.com/ProfessionalLinuxUsersGroup/lac): Co-maintainer of open-source Linux courses  
-- [Automated Monitoring Stack](https://github.com/kolkhis/scripts-playbooks/tree/main/monitoring): Ansible playbooks that deploys tools from Grafana Labs (Grafana, Loki, Prometheus, Node_Exporter, Promtail)
+- [ProLUG Course Sites](https://github.com/ProfessionalLinuxUsersGroup/course-books): Maintainer of open-source Linux courses  
 - [Kubernetes Deployment Scripts](https://github.com/kolkhis/scripts-playbooks/tree/main/k8s-setup): Set of Bash scripts and Ansible playbooks used to configure a highly available K8s cluster  
-- GitHub Backup Tool: Bash script using GitHub API + EC2 + S3 to automate org repo backups
+- [Proxmox Utility Scripts](https://github.com/kolkhis/lab-utils/tree/main/pve): Hand-rolled Proxmox helper scripts.  
+- [Automated Monitoring Stack](https://github.com/kolkhis/scripts-playbooks/tree/main/monitoring): Ansible playbooks that deploys tools from Grafana Labs (Grafana, Loki, Prometheus, Node_Exporter, Promtail)
+- [Image Watermarker Application](https://github.com/kolkhis/image_watermarker): A Python desktop application used to add logo and text watermarks to images.
+- GitHub Backup Tool: Bash script using GitHub API + EC2 + S3 to automate org repo backups (currently private, available upon request)
 
 More projects at 👉 [https://github.com/kolkhis?tab=repositories](https://github.com/kolkhis?tab=repositories) and [my `lab-utils` repository](https://github.com/kolkhis/lab-utils)  
 
-
 ## Certifications
 
-- Linux Systems Administration for the Enterprise - ProLUG (2024)
-- Security Engineering - ProLUG (2025)
+- ProLUG Certified Linux Systems Administration for the Enterprise - ProLUG (2024)
+- ProLUG Certified Security Engineering - ProLUG (2025)
 - Gremlin Enterprise Chaos Engineering Certification (GECEC) - Gremlin (2025)
-
 
 ## Skills Snapshot
 
@@ -54,9 +54,9 @@ More projects at 👉 [https://github.com/kolkhis?tab=repositories](https://gith
 | Observability     | Prometheus, Grafana, Loki, etc.
 | Tooling           | vi/vim/nvim, tmux/screen, git, SSH, containers (Docker/Podman), etc.
 
-## Portfolio + Contact
+## Contact
 
-- [My Notes Site / Tech Wiki](https://docs.kolkhis.dev)
+- LinkedIn: <https://linkedin.com/in/kolkhis>
 - Email: [connor@kolkhis.dev](mailto:connor@kolkhis.dev)
 
 ---
